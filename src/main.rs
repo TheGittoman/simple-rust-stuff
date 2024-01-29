@@ -41,12 +41,12 @@ fn christmas() {
     ];
     lyrics.reverse();
 
-    let mut counter = 0;
     println!("On the first day of Christmas,");
     println!("my true love gave to me",);
     println!("A partridge in a pear tree");
     println!("");
 
+    let mut counter = 0;
     for index in days {
         println!("{index}");
         println!("my true love gave to me",);
