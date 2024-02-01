@@ -1,0 +1,18 @@
+// implementation of rust tutorial practise question
+
+// Using a hash map and vectors, create a text interface
+// to allow a user to add employee names to a department
+// in a company. For example, “Add Sally to Engineering”
+// or “Add Amir to Sales.” Then let the user retrieve a
+// list of all people in a department or all people in the
+// company by department, sorted alphabetically.
+
+map = key + value
+map(key) -> value
+map(sally) -> Sales
+
+hash map and vectors
+Way to add names to departments // Add sally to Engineering
+Retrieve sorted list of:
+    All people in the deparment
+    All people in company by department
