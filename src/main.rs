@@ -1,3 +1,4 @@
+use adder;
 fn main() {
     let message = "Hello world!";
 
